@@ -1,6 +1,6 @@
 # PC-SPRINT
 
-- [Clueless Engineer] - the original board is too wide for the Model 5155 (Portable PC) and Model 5160 (PC/XT) due to the presence of Slot 8 and the keyboard socket, so re-designed using SMD for the passives to shrink the width to 25mm (from the original 29.21mm) ... looks like it should fit (but to be tested)
+- [Clueless Engineer] - the original board is too wide for the Model 5155 (Portable PC) and Model 5160 (PC/XT) due to the presence of Slot 8 and the keyboard socket, so re-designed using SMD for the passives to shrink the width to 24mm (from the original 29.21mm) ... looks like it should fit (but to be tested)
 - [Vintage Support Services] - additional designs that shrink the board even further, including one for the Model 4860 (PCjr)
 
 ## Navigating This Document
